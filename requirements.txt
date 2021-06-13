@@ -1,0 +1,10 @@
+Flask
+pytest
+mock
+pymongo
+python-dateutil
+flask-cors
+numpy
+pandas
+requests
+scipy
